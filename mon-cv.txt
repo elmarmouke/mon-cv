@@ -1,0 +1,6 @@
+mon nom:            Adil El Marmouke
+Mes compétences:    Architecture
+                    Cybersécurité
+                    Infratructure
+                    Développement
+                    Gestion...
